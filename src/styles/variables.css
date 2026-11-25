@@ -1,0 +1,17 @@
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+
+  --color-background: #f6f7fb;
+  --color-surface: #fff;
+  --color-text: #24233a;
+  --color-muted: #85849a;
+  --color-border: #e9e9f0;
+  --color-primary: #6558d3;
+  --color-primary-soft: #efedff;
+  --color-success: #27866e;
+  --color-danger: #c64b5b;
+  --radius-large: 18px;
+  --radius-medium: 11px;
+  --shadow-card: 0 8px 28px rgb(34 34 68 / 4%);
+}
